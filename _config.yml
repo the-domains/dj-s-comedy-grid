@@ -1,0 +1,28 @@
+name: "DJ's Comedy Grid"
+favicon: null
+layout_spectrum: 0.9732183844316751
+typography_spectrum: 0.4642438932787627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.20824248204007745
+  lightness: 0.23856872250325978
+  saturation: 0.19018104928545654
+  rhythmicContrast: 0.04819812090136111
+purpose: []
